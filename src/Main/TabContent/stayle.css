@@ -1,0 +1,49 @@
+.container-information {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.information {
+    margin-bottom: 30px;
+    width: 500px;
+    margin: 40px;
+    background: cornsilk;
+    padding-bottom: 10px;
+}
+
+.inp {
+    display: block;
+    padding: 10px 30% 10px 0;
+    border: none;
+    border-bottom: 2px solid black;
+    margin-bottom: 40px;
+}
+
+.href {
+    margin: 10px;
+    text-decoration: none;
+    color: #61dafb;
+
+}
+
+.container-inp {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.btn {
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    background: dodgerblue;
+    color: white;
+    font-size: 20px;
+}
+
+.result-btn {
+    margin: 20px;
+}
